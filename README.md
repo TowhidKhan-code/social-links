@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/TowhidKhan-code/social-links)
+- Live Site URL: (https://towhidkhan-code.github.io/social-links/)
 
 ## My process
 
